@@ -19,9 +19,14 @@ Configurando o Git Bash com o usuário
 
 Inicializando repositório na pasta selecionada
 
+![image](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/160679638/12510b99-2f02-4a2e-880b-f17f228962e7)
+
+Altera o nome da Branch de master para main 
+
+
 ![image](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/162371856/ff85ff99-a22a-458c-bb47-05f141f53a96)
 
-Conecta o repositório com o servidor usando o enderaço do GitHub para configurá-lo
+Conecta o repositório com o servidor usando o endereço do GitHub para configurá-lo
 
 ![image](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/162371856/297d215e-dce6-42d9-8414-92f0a3f5c390)
 
