@@ -1,6 +1,6 @@
 # Aprendendo-Git
-Um repositório para aprender a utilizar o Git e o GitHub 
-Gabriel Gaudí e Guilherme Henrique 2º JD
+<h2>Um repositório para aprender a utilizar o Git e o GitHub</h2> 
+<h2>Gabriel Gaudí e Guilherme Henrique 2º JD</h2>
 
 ![image](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/162371856/6139cfce-8524-4cb3-922c-75c4692e4282)
 
@@ -55,6 +55,23 @@ Manda commits à branch main(ou master) no servidor
 ![image](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/162371856/c855ab5f-7910-4988-890e-149502a66973)
 
 Arquivo do computador adicionado ao repositório e servidor do GitHub pelo Git
+
+![pegando-Arquivo](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/160679638/4cfbc675-e629-41da-8add-3450a6fa7f8e)
+
+Pegando arquivos alterados no servidor do GitHub
+
+
+
+
+
+
+<h1>Relatorio do Git e GitHub</h1>
+
+Para realizar a atividade do Gitub criamos um novo projeto onde conseguimos registrar cada passo realizado com muito cuidado para
+não deixar nada de lado utilizamos a maior parte dos comandos mostrados em aula para tentar fixar melhor o conteúdo 
+
+
+
 
 
 
