@@ -36,6 +36,10 @@ Pega os arquivos que estão no servidor e junta eles com os arquivos do diretór
 
 Modo de edição pede uma mensagem explicando a mesclagem
 
+![image](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/160679638/66099837-cc98-4c14-8abb-1511d56de793)
+
+verifica o que precisa ser feito
+
 ![image](https://github.com/GuilhermeHLSouza/Aprendendo-Git/assets/162371856/dcbb6012-e5b6-4374-a270-5b60041716b3)
 
 Adiciona todos os arquivos
